@@ -6,3 +6,5 @@ Application:
 * Morphia
 * Jersey
 * HATEOAS
+* Grizzly
+* Maven
